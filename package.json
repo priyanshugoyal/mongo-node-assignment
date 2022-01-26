@@ -4,7 +4,8 @@
   "description": "A sample node application",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "node index.js"
   },
   "author": "priyanshu goyal",
   "license": "ISC",
