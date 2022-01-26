@@ -1,0 +1,21 @@
+{
+  "name": "node-mongoose-demo",
+  "version": "1.0.0",
+  "description": "A sample node application",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "priyanshu goyal",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/joi": "^15.0.3",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "mongodb": "^4.3.1"
+  },
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
